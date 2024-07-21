@@ -11,9 +11,6 @@ Applications of stack:
 1. Some CPUs have their entire assembly language based on the concept of performing operations on registers that are stored in a stack.
 2. Stack structure is used in the C++ run-time system.
 
-## Outcome of the code
-The basic implementation of Stacks.
-
 ## Algorithm
 1. Start
 2. Create a Class called Stacks
