@@ -13,7 +13,7 @@ class Stack{
     void push(int);
     int pop();
     int peak();
-    int disp();
+    void disp();
 };
 void Stack::push(int num){
     if(top==size-1){
@@ -65,10 +65,9 @@ int main(){
     s1.push(10);
     s1.push(4);
     int val=s1.pop();
-    cout<<val;
+    cout<<val<<endl;
     int top=s1.peak();
-    cout<<top;
-    int x=s1.disp();
-    cout<<x;
+    cout<<top<<endl;
+    s1.disp();
     return 0;
 }
