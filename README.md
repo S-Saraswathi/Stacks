@@ -34,4 +34,4 @@ The basic implementation of Stacks.
 - We **Print** the stack.
 
 ## Output Screenshot
-![Screenshot of the output](image_2023-10-21_154012032.png)
+![Screenshot of the output](Screenshot(1).png)
